@@ -15,7 +15,7 @@
 
 ### 1. College Location Mapping (`collegeloc.ipynb`)
 - **Purpose:** Visualize the geographic location of a specific college on a map.
-- **Typical Workflow:** Reads location data and uses mapping libraries (likely folium or matplotlib) to plot the college's position.
+- **Typical Workflow:** Reads location data and uses mapping libraries to plot the college's position.
 - **Use Cases:** Useful for educational mapping, presentations, or initial GIS tasks.
 
 ### 2. Digital Elevation Mapping (`digital elevation.ipynb`)
